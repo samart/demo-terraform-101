@@ -4,7 +4,7 @@ terraform {
 
 provider "aws" {
   #comment
-  #another commenr
+  #another comment again
   version = ">= 2.27.0"
 }
 
